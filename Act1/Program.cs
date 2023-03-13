@@ -91,7 +91,7 @@ namespace BubbleShort
             //pemanggilan fungsi untuk menampilkan array yang tersusun
             mylist.display();
 
-            //exit
+            //keluar dari konsol
             Console.WriteLine("\n\n Tekan tombol apa saja untuk keluar.");
             Console.Read();
         }
